@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-Lectures are held in Maury 209 5:00pm-6:15pm on Mondays and Wednesdays. All lectures will additionally be live-streamed via Zoom (links to the meetings are available in collab under "Online Meetings"). The live streams will also be recorded for later viewing (links available in collab "Online Meetings"). There may be supplementary instructional videos posted, those will be available on the [schedule page](/schedule.html).
+Lectures are held in John W. Warner Hall (formerly Maury Hall) Room 209 3:30pm-4:45pm on Mondays and Wednesdays. All lectures will additionally be recorded for viewing after class (links available in collab). There may be supplementary instructional videos posted, those will be available on the [schedule page](/schedule.html).
 
 
 ## Contact Information
