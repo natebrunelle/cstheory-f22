@@ -65,7 +65,7 @@ We will consider the grade assigned by the following point-based breakdown to be
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Quizzes                     50%     6 total at 8.33% each
+Quizzes                     50%     6 total at 8.33% each. Grade on each quiz will always be the last taken of the original quiz and the optional final attempt.
 Problem Sets                50%     12 total. PS0 is worth 1%, then of the remaining 11 your best 5 are worth 6% each, your middle 4 are worth 4% each, and your lowest 2 are worth 1.5% each 
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
@@ -92,6 +92,10 @@ F        otherwise     0.0
 **Rounding:** By default, grades will not be rounded in this course.
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. I expect that qualitative adjustments will only result in a student's grade increasing (though in extreme circumstances I reserve the right to decrease grades).
+
+## Quiz Final Attempts
+
+In lieue of a final exam, students may opt re-attempt up to two quizzes from the semester. If these quizzes are submitted then they will replace your original grade on the corresponding quiz, whether that increases or decreases your grade. The latest deadline for these quizzes will match the University Registrar-assigned final exam time (which is 5pm on Decembter 16 for this semester). During the last week of classes you will have the option to select an earlier deadline for each final quiz you wish to attempt. There are several reasons why you might want to select an earlier deadline: 1) You may wish to submit sooner and get your grade back sooner, 2) you want to receive your grade back from one of your reattempts before deciding on whether to do a second, 3) you know you're going to submit the quiz(zes) early anyway and you want to be nice to the course staff and let them grade it early too.
 
 
 ## Absences and Deadlines
