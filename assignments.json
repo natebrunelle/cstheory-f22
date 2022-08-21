@@ -182,4 +182,60 @@
   ,"weight":1
   ,"files":"ps11_revised.pdf"
   }
+,"Quiz6 P vs NP":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz6.html"
+  ,"weight":1
+  ,"files":"quiz6.pdf"
+  }
+,"Quiz1 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz1_retake.pdf"
+  }
+,"Quiz2 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz2_retake.pdf"
+  }
+,"Quiz3 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz3_retake.pdf"
+  }
+,"Quiz4 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz4_retake.pdf"
+  }
+,"Quiz5 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz5_retake.pdf"
+  }
+,"Quiz6 Retake":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-16 17:00"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html"
+  ,"weight":0
+  ,"files":"quiz6_retake.pdf"
+  }
 }
