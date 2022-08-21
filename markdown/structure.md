@@ -9,8 +9,8 @@ This course is structured in a way to enable and encourage collaborative learnin
 
 There are 4 categories of tasks students will complete throughout the semester:
 
-- **Problem Sets**: Consist of 4-7 problems to be solved collaboratively and submitted collectively by cohorts. Expect to have one problem set per week, with deadlines typically occurring on Mondays.
-- **Quizzes**: Consist of 1-3 problems to be completed individually. Students may use their own notes or course materials for quizzes. Expect to have a quiz roughly every other week, with deadlines occurring on Fridays. Note that the last quiz (Quiz6) is due during the final exam period
+- **Problem Sets**: Consist of 4-7 problems to be solved collaboratively and submitted collectively by cohorts. Expect to have one problem set per week, with deadlines typically occurring on Fridays.
+- **Quizzes**: Consist of 1-3 problems to be completed individually. Students may use their own notes or course materials for quizzes. Expect to have a quiz roughly every other week, with deadlines occurring on Tuesdays. Note that the last quiz (Quiz6) is due during the final exam period
 - **Optional Quiz Re-attempt**: In lieue of a final exam, students may opt re-attempt up to two quizzes from the semester. If these quizzes are submitted then they will replace your original grade on the corresponding quiz, whether that increases or decreases your grade.
 
 # Cohorts
