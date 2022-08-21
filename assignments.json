@@ -115,4 +115,39 @@
   ,"weight":1
   ,"files":"ps8.pdf"
   }
+,"PS9 Uncomputability":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-11-02 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week10.html"
+  ,"weight":1
+  ,"files":"ps9.pdf"
+  }
+,"PS10 Rices Theorem and Asymptotics":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-11-09 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week11.html"
+  ,"weight":1
+  ,"files":"ps10.pdf"
+  }
+,"PS11 NP Complete":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-11-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week12.html"
+  ,"weight":1
+  ,"files":"ps11_revised.pdf"
+  }
+,"PS12":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-11-30 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week13.html"
+  ,"weight":1
+  }
 }
