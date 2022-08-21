@@ -25,6 +25,14 @@
   ,"weight":1
   ,"files":"ps2.pdf"
   }
+,"Quiz1 Induction and Diagonalization":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-09-27 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz1.html"
+  ,"weight":1
+  ,"files":"quiz1.pdf"
+  }
 ,"PS3 Circuits and Straightline":
   {"portion":"6"
   ,"drop":1
@@ -61,6 +69,14 @@
   ,"weight":0.2
   ,"files":"adders.py"
   }
+,"Quiz2 Universality":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-10-11 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz2.html"
+  ,"weight":1
+  ,"files":"quiz2.pdf"
+  }
 ,"PS5 EVAL and Complexity":
   {"portion":"6"
   ,"drop":1
@@ -87,6 +103,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week7.html"
   ,"weight":1
   ,"files":"ps6.pdf"
+  }
+,"Quiz3 Circuit Complexity":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-10-25 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz3.html"
+  ,"weight":1
+  ,"files":"quiz3.pdf"
   }
 ,"PS7 Non-determinism and Closure":
   {"portion":"6"
@@ -115,6 +139,14 @@
   ,"weight":1
   ,"files":"ps8.pdf"
   }
+,"Quiz4 Automata and Turing Machines":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-11-08 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz4.html"
+  ,"weight":1
+  ,"files":"quiz4.pdf"
+  }
 ,"PS9 Uncomputability":
   {"portion":"6"
   ,"drop":1
@@ -132,6 +164,14 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week11.html"
   ,"weight":1
   ,"files":"ps10.pdf"
+  }
+,"Quiz5 Reductions":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-11-29 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz5.html"
+  ,"weight":1
+  ,"files":"quiz5.pdf"
   }
 ,"PS11 NP Complete":
   {"portion":"6"
