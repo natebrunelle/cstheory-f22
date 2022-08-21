@@ -9,8 +9,8 @@ This course is structured in a way to enable and encourage collaborative learnin
 
 There are 4 categories of tasks students will complete throughout the semester:
 
-- **Problem Sets**: Consist of 4-7 problems to be solved collaboratively and submitted collectively by cohorts. Expect to have one problem set per week, with deadlines typically occurring on Fridays.
-- **Quizzes**: Consist of 1-3 problems to be completed individually. Students may use their own notes or course materials for quizzes. Expect to have a quiz roughly every other week, with deadlines occurring on Tuesdays. Note that the last quiz (Quiz6) is due during the final exam period
+- **Problem Sets**: Consist of 4-7 problems to be solved collaboratively and submitted collectively by cohorts. Expect to have one problem set per week, with deadlines typically occurring on Fridays. Each problem set will focus on material covered in the lectures that ocurred on the Monday immediately preceding the problem set deadline and the Wednesday from the week prior. (i.e. the Wednesday lecture that ocurred 9 days prior and the Monday lecture from 5 days prior)
+- **Quizzes**: Consist of 1-3 problems to be completed individually. Students may use their own notes or course materials for quizzes. Expect to have a quiz roughly every other week, with deadlines typically occurring on Tuesdays. Note that the last quiz (Quiz6) is due during the final exam period
 - **Optional Quiz Re-attempt**: In lieue of a final exam, students may opt re-attempt up to two quizzes from the semester. If these quizzes are submitted then they will replace your original grade on the corresponding quiz, whether that increases or decreases your grade.
 
 # Cohorts
@@ -47,13 +47,13 @@ A sample weekly schedule for students in the course is below (this schedule supp
 Day             Activity                                  Estimated Time
 --------------- ----------------------------------------- ---------
 Monday          Attend Lecture                            75 minutes
-                Submit last week's problem set            15 minutes
-Tuesday         Preparation Materials (Readings)          60 minutes
+                Complete Quiz (if there is one)           60 minutes
+Tuesday         Work on Problem Set (individually)        120 minutes
 Wednesday       Attend Lecture                            75 minutes
-                Preparation Materials (Readings)          60 minutes
-Thursday        Work on Problem Set (individually)        120 minutes
-Friday          Preparation Meeting (with cohort)         75 minutes
-Saturday/Sunday Finish and Draft solutions                120 minutes
+                Preparation Meeting (with cohort)         75 minutes
+Thursday        Finish and Draft solutions                90 minutes
+Friday          Submit Problem Set                        15 minutes
+Saturday/Sunday Preparation Materials (Readings)          120 minutes
 Total Time                                                10 hrs/week
 
 The schedule is designed to expect 10 hours of total work per week,
