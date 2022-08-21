@@ -66,10 +66,10 @@ We will consider the grade assigned by the following point-based breakdown to be
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
 Quizzes                     50%     6 total at 8.33% each
-Problem Sets                50%     12 total (with PS0 with half the weight of all others). Lowest problem set score is replaced with 100%.
+Problem Sets                50%     12 total. PS0 is worth 1%, then of the remaining 11 your best 5 are worth 6% each, your middle 4 are worth 4% each, and your lowest 2 are worth 1.5% each 
 Professionalism Penalty    0--100%  Excessive missed classes, rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
 
-The exact weights of assignments is subject to change as we further refine the assignments we will give.
+Note that some assignments may be comprised of multiple submissions (e.g. a written portion and a programming portion submitted separately). For problem sets with multiple submissions, all submissions will collectively be weighted as one assignment but may not be weighted the same as each other (e.g. the programming portion may count for 20% of that assignment whereas the written portion counts for 80%).
 
 Your final letter grade will then be assigned as follows:
 
@@ -103,9 +103,9 @@ to be valid excuses.
 
 We encourage cohorts meet for preparation meetings on schedule even in the case that one or more members must be absent. In the case that a student is unable to effectively contribute to a given problem set for excusable reasons, that student may submit an exemption request for that problem set (though that student will still be responsible for the relevent material).
 
-In the case you are unable to submit a problem set/quiz on time, please submit an extension request. When possible, requests should be submitted 48 hours before the assessed cohort meeting.
+In the case you are unable to submit a problem set/quiz on time, please submit an extension request. When possible, requests should be submitted 48 hours before the deadline.
 
-In cases where a student must be exempted for more than one problem set during the semester, we will provide an alternate assessment through an individual video meeting.
+In cases where a student must be exempted for more than one problem set during the semester, we will provide an alternate form of submission.
 
 ## Bonus Points
 
