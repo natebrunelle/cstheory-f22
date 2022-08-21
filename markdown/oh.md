@@ -4,7 +4,7 @@ title: Office Hours
 
 <blockquote style="background-color:#fbb; font-size:150%">TA Office Hours will be scheduled and posted here following the scheduling of cohort meetings</blockquote>
 
-All office hours will be conducted either in person or via Discord (using the `#oh` channel). The invite link to join discord can be found on the course collab page. After accepting the invitation, our bot called `Turing` will send you a message. Respond to Turing with your computing id so that we can verify that you're enrolled in the course.
+All office hours will be conducted either in person or via Discord (using the `#oh` channel). The invite link to join discord can be found on the course collab page. After accepting the invitation, our bot called `UVAuth` will send you a message. Respond to UVAuth with your computing id so that we can verify that you're enrolled in the course.
 
 We will have scheduled office hours times. If you have content questions outside of office hours, please use the discord channel associated with the relevant category (e.g. `#ps3`).
 
