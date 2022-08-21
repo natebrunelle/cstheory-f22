@@ -1,1 +1,73 @@
-{}
+{"PS0 Getting Started":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-08-31 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week1.html"
+  ,"weight":0.5
+  ,"files":"ps0.pdf"
+  }
+,"PS1 Induction":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-09-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week2.html"
+  ,"weight":1
+  ,"files":"ps1.pdf"
+  }
+,"PS2 Countability":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-09-14 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week3.html"
+  ,"weight":1
+  ,"files":"ps2.pdf"
+  }
+,"PS3 Circuits and Straightline":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-09-21 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html"
+  ,"weight":0.75
+  ,"files":"ps3.pdf"
+  }
+,"PS3 programming":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-09-28 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html"
+  ,"weight":0.25
+  ,"files":"straightline.py"
+  }
+,"PS4 Sugar and Universality":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-10-12 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html"
+  ,"weight":0.8
+  ,"files":"ps4.pdf"
+  }
+,"PS4 programming":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-10-19 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html"
+  ,"weight":0.2
+  ,"files":"adders.py"
+  }
+,"PS5 EVAL and Complexity":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-10-26 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html"
+  ,"weight":0.75
+  ,"files":"ps5.pdf"
+  }
+}
