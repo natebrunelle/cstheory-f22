@@ -7,6 +7,9 @@ Special Dates:
   Fall break: 
     start: 2022-10-01
     end: 2022-10-04
+  Thanksgiving break: 
+    start: 2022-11-23
+    end: 2022-11-27
 
 meta:
   timezone: America/New_York
@@ -87,56 +90,56 @@ assignments:
     
     PS0 Getting Started:
         group: problem_sets
-        due: 2022-01-31 23:59:59
+        due: 2022-08-31 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week1.html'
         weight: 0.5
         files: 'ps0.pdf'
 
     PS1 Induction:
         group: problem_sets
-        due: 2022-02-07 23:59:59
+        due: 2022-09-07 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week2.html'
         weight: 1
         files: 'ps1.pdf'
         
     PS2 Countability:
         group: problem_sets
-        due: 2022-02-14 23:59:59
+        due: 2022-09-14 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week3.html'
         weight: 1
         files: 'ps2.pdf'
         
     PS3 Circuits and Straightline:
         group: problem_sets
-        due: 2022-02-21 23:59:59
+        due: 2022-09-21 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
         weight: 0.75
         files: 'ps3.pdf'
         
     PS3 programming:
         group: problem_sets
-        due: 2022-02-21 23:59:59
+        due: 2022-09-28 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
         weight: 0.25
         files: 'straightline.py'
 
     PS4 Sugar and Universality:
         group: problem_sets
-        due: 2022-02-28 23:59:59
+        due: 2022-10-12 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
         weight: 0.8
         files: 'ps4.pdf'
 
     PS4 programming:
         group: problem_sets
-        due: 2022-02-28 23:59:59
+        due: 2022-10-19 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
         weight: 0.2
         files: 'adders.py'
 
     PS5 EVAL and Complexity:
         group: problem_sets
-        due: 2022-03-22 23:59:59
+        due: 2022-10-26 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
         weight: 0.75
         files: 'ps5.pdf'
