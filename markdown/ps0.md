@@ -34,7 +34,7 @@ extra motivation for doing this, if just making the world better for
 future generations of Theory of Computing students isn't enough
 already.)
 
-For Week 1, you should read these two chapters from the TCS book:
+For this week, you should read these two chapters from the TCS book:
 
 <blockquote>
 
@@ -53,7 +53,7 @@ These are the problems you should discuss and solve first independently, then wi
 # Writeup
 
 This write-up
-is due by **11:59pm** on Monday January 31.
+is due by **11:59pm** on Tuesday September 6.
 
 Unlike with future weeks, this week your problem set is primarily intended to familiarize you with LaTeX[^future], a document-editing programming language.
 
@@ -69,7 +69,7 @@ Visit [https://www.overleaf.com](https://www.overleaf.com) and register for an O
 
 Create your own copy of the ps0 repository by following these steps:
 
-1. Download the [Week 1 template](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps0.zip)
+1. Download the [PS0 template](https://www.cs.virginia.edu/~njb2b/cstheory/s2022/files/ps/ps0.zip)
 1. In Overleaf, click on *Create First Project* or *New Project in Overleaf* and select *Upload Project* from the menu.
 1. Click *Select a .zip file* then select the *ps0.zip* you downloaded in step 1
 
@@ -93,7 +93,7 @@ Create your own copy of the ps0 repository by following these steps:
 
 # Optional Videos 
 
-If you missed the live first meeting on January 19, you can watch it here: [January 19 lecture video]().
+If you must miss the live first meeting on August 2, a recording will be posted here.
 
 ## Previous Semester videos
 
