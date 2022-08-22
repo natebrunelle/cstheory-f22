@@ -91,112 +91,112 @@ assignments:
     PS0 Getting Started:
         group: problem_sets
         due: 2022-09-06 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week1.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps0.html'
         weight: 0.5
         files: 'ps0.pdf'
 
     PS1 Induction:
         group: problem_sets
         due: 2022-09-16 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week2.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps1.html'
         weight: 1
         files: 'ps1.pdf'
         
     PS2 Countability:
         group: problem_sets
         due: 2022-09-23 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week3.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps2.html'
         weight: 1
         files: 'ps2.pdf'
         
     PS3 Circuits and Straightline:
         group: problem_sets
         due: 2022-09-30 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps3.html'
         weight: 0.75
         files: 'ps3.pdf'
         
     PS3 programming:
         group: problem_sets
         due: 2022-09-30 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week4.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps3.html'
         weight: 0.25
         files: 'straightline.py'
 
     PS4 Sugar and Universality:
         group: problem_sets
         due: 2022-10-07 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps4.html'
         weight: 0.8
         files: 'ps4.pdf'
 
     PS4 programming:
         group: problem_sets
         due: 2022-10-07 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week5.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps4.html'
         weight: 0.2
         files: 'adders.py'
 
     PS5 EVAL and Complexity:
         group: problem_sets
         due: 2022-10-14 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps5.html'
         weight: 0.75
         files: 'ps5.pdf'
         
     PS5 programming:
         group: problem_sets
         due: 2022-10-14 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps5.html'
         weight: 0.25
         files: 'eval.py'
 
     PS6 Automata and Regex:
         group: problem_sets
         due: 2022-10-21 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week7.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps6.html'
         weight: 1
         files: 'ps6.pdf'
         
     PS7 Non-determinism and Closure:
         group: problem_sets
         due: 2022-10-28 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week8.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps7.html'
         weight: 0.8
         files: 'ps7.pdf'
         
     PS7 programming:
         group: problem_sets
         due: 2022-10-28 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week8.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps7.html'
         weight: 0.2
         files: 'ps7.py'
         
     PS8 Turing Machines:
         group: problem_sets
         due: 2022-11-04 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week9.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps8.html'
         weight: 1
         files: 'ps8.pdf'
         
     PS9 Uncomputability:
         group: problem_sets
         due: 2022-11-11 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week10.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps9.html'
         weight: 1
         files: 'ps9.pdf'
         
     PS10 Rices Theorem and Asymptotics:
         group: problem_sets
         due: 2022-11-18 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week11.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html'
         weight: 1
         files: 'ps10.pdf'
         
     PS11 NP Complete:
         group: problem_sets
         due: 2022-12-06 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/week12.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps11.html'
         weight: 1
         files: 'ps11_revised.pdf'
         
@@ -204,83 +204,83 @@ assignments:
     Quiz1 Induction and Diagonalization:
         group: quizzes
         due: 2022-09-27 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz1.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz1.html'
         weight: 1
         files: 'quiz1.pdf'
         
     Quiz2 Universality:
         group: quizzes
         due: 2022-10-11 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz2.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz2.html'
         weight: 1
         files: 'quiz2.pdf'
         
     Quiz3 Circuit Complexity:
         group: quizzes
         due: 2022-10-25 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz3.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz3.html'
         weight: 1
         files: 'quiz3.pdf'
         
     Quiz4 Automata and Turing Machines:
         group: quizzes
         due: 2022-11-08 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz4.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz4.html'
         weight: 1
         files: 'quiz4.pdf'
         
     Quiz5 Reductions:
         group: quizzes
         due: 2022-11-29 23:59:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz5.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz5.html'
         weight: 1
         files: 'quiz5.pdf'
         
     Quiz6 P vs NP:
         group: quizzes
         due: 2022-12-16 17:00:58
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/quiz6.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz6.html'
         weight: 1
         files: 'quiz6.pdf'
         
-    Quiz1 Retake:
+    Quiz1 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz1_retake.pdf'
     
-    Quiz2 Retake:
+    Quiz2 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz2_retake.pdf'
         
-    Quiz3 Retake:
+    Quiz3 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz3_retake.pdf'
     
-    Quiz4 Retake:
+    Quiz4 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz4_retake.pdf'
         
-    Quiz5 Retake:
+    Quiz5 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz5_retake.pdf'
         
-    Quiz6 Retake:
+    Quiz6 Final:
         group: quizzes
         due: 2022-12-16 17:00:59
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/s2022/finalquizzes.html'
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html'
         weight: 0
         files: 'quiz6_retake.pdf'
