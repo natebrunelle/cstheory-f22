@@ -2,9 +2,12 @@
 title: Quiz 1 | Induction and (Un)Countability
 ...
 
+
 # Topics Covered
 
-This quiz will contains 2 questions:
+This quiz is due at 11:59pm on Tuesday 10/11. It will be posted no later than 11:59pm on Friday 10/7.
+
+This quiz will contain 2 questions:
 
 1. One requiring a proof by induction
 1. One requiring a proof by diagonalization
@@ -15,7 +18,7 @@ To help you prepare, I have provided sample solutions for problem sets 1 and 2 w
 
 # Collaboration Policy
 
-This quiz is open-note, closed internet, and closed-collaborator. To see details on what this means, please refer to the [syllabus](/syllabus.html).
+This quiz is open-note, closed internet, and closed-collaborator. To see additional details on what this policy, please refer to the [syllabus](/syllabus.html).
 
 You may ask clafication questions for the quiz in office hours or in #quiz1 in discord.
 
