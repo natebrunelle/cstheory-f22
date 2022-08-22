@@ -1,5 +1,5 @@
 ---
-title: Week 1 Guide | The proof is in the pancakes
+title: PS0 Content Guide | The proof is in the pancakes
 ...
 
 
