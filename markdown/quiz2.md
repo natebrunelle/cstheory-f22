@@ -11,7 +11,7 @@ This quiz will contain 2 questions:
 1. One requiring a proof by induction to count the number of NAND gates that are require to implement a function
 1. One requiring you to compare the relative power of two models of computing
 
-This material is sourced from the material covered in lecture on 7/19, 7/21, 7/26, and 7/28. Similar problems to these were seen in problem sets 3 and 4. No material introduced after 7/14 or first covered by problem set 5 will be represented in this quiz. Because some topics build upon others, earlier topics may be relevant for the questions included, even though the quiz is not specifically designed to be cumulative. 
+This material is sourced from the material covered in lecture on 9/19, 9/21, 9/26, and 9/28. Similar problems to these were seen in problem sets 3 and 4. No material introduced after 9/28 or first covered by problem set 5 will be represented in this quiz. Because some topics build upon others, earlier topics may be relevant for the questions included, even though the quiz is not specifically designed to be cumulative. 
 
 To help you prepare, sample solutions for problem sets 3 and 4 will be posted here after their respective deadlines.
 
