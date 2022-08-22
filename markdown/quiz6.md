@@ -8,7 +8,7 @@ Be advised that once your deadline has passed and you have submitted something, 
 
 # Topics Covered
 
-See above for details on the deadline of this quiz.
+See above for details on the deadline of this quiz. It will be released no later than Monday December 5.
 
 This quiz contains 2 questions:
 
