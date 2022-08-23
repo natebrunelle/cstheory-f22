@@ -42,7 +42,7 @@ semi-arbitrarily picked PyCharm).
     
     4.  If asked, check "Add Python to environment variables" and "Install for all users"; leave all other options at their default values.
 
-2.  Install PyCharm Community Edition 2020.2.1:
+2.  Install PyCharm Community Edition:
     
     1.  Download the dmg disk image from jetbrains.com. [For Intel Processors](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC) [For Apple Silicon Processors](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=macM1&code=PCC).
     
