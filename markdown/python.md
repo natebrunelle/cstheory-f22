@@ -6,7 +6,7 @@ title: Installing Python
 If you already have some version of python3 on your machine, you should be good to go
 for the programming problems.
 
-If you don’t, please follow these directions to download Python 3.10.6 and
+If you don’t, please follow these directions to download Python 3.10.6 (the latest stable release as of this writing) and
 PyCharm Community Edition 2022.2.1 (you’re welcome to use any IDE that you want, we
 semi-arbitrarily picked PyCharm).
 
