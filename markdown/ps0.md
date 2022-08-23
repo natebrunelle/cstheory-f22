@@ -97,7 +97,7 @@ If you must miss the live first meeting on August 24, a recording will be posted
 
 ## Previous Semester videos
 
-In past semesters when courses were held online, we created a collection of videos for asynchronous instruction. In case those are helpful to you this semester, I'm identifying which ones will parallel content we're covering each week. Watching these videos is strictly optional. All content you're expected to know for this semester will be at least mentioned in class (and then reinforced in the readings). Anything mentioned exclusively in the pre-made videos is not required content for this semester.
+In past semesters when courses were held online, we created a collection of videos for asynchronous instruction. In case those are helpful to you this semester, I'm identifying which ones will parallel content we're covering each week. Watching these videos is strictly optional. All content you're expected to know for this semester will be at least mentioned in class (and then reinforced in the readings). Anything mentioned exclusively in the pre-made videos is not required content for this semester. As an advisory, content covered in lecture but not in the pre-made videos *is* required content for this semester. I do not know of any topics for which this applies, but then again it's been a while since I made the videos. So to summarize, if you skip class and watch these videos you'll probably be fine, but I don't guarantee it.
 
 
 You can play all the week 1 videos using the playlist:
