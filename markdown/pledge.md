@@ -33,18 +33,17 @@ you are expected to exemplify these behaviors in cs3102:
   among my classmates, the course staff, or other University faculty),
   I will not tolerate them silently, but will either take it upon
   myself to mitigate them, or will inform one of the course
-  instructors or another University administrator.
+  instructors, a University administrator, or using the [Just Report It tool](https://justreportit.virginia.edu/).
 
 **I will care for myself physically and emotionally.** Staying
-  stationary and working at home can make it difficult to maintain
+  stationary and working at home or in isolation can make it difficult to maintain
   your physical and emotional well-being. I will ensure that whatever
   I am doing to succeed in my courses does not take priority over my
   needs to exercise, stay hydrated, keep well-rested, make time to eat lunch and dinner   away from my workspace, and to safely spend time outside.
 
 **I will be connected with others, and look out for the well-being of
 my classmates.** The University of Virginia is a community, and we hope this class, and your learning cohort within it, will also become one. Be creative in
-maintaining and reinforcing that community through the struggles
-caused by gathering restrictions or other COVID safety measures, and seek out and maximize opportunities for virtual social interactions with fellow
+maintaining and reinforcing that community and seek out and maximize opportunities for in-person or virtual social interactions with fellow
 students and others in the university community.
 
 **I will ask for help.** I will make a reasonable effort to do things
