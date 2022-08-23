@@ -79,7 +79,7 @@ Create your own copy of the ps0 repository by following these steps:
 1. Answer each question in the corresponding `.tex` file after the `\answer` line. 
 1. If you get stuck, check out [overleaf's tutorials](https://overleaf.com/learn/latex/Tutorials).
 1. When you're ready to submit, replace the line, `\usepackage{toc}` (the second line in the file) with `\usepackage[response]{toc}`. You can do this by using the LaTeX comment token, %. The rest of the line after a % is treated as a comment. 
-1. Then, try rebuilding the PDF by clicking *Recompile*. You should see many things disappear and other things reappear
+1. Then, try rebuilding the PDF by clicking *Recompile*. You should see many things disappear and other things appear
 
 
 ## Download and Submit
@@ -93,7 +93,7 @@ Create your own copy of the ps0 repository by following these steps:
 
 # Optional Videos 
 
-If you must miss the live first meeting on August 2, a recording will be posted here.
+If you must miss the live first meeting on August 24, a recording will be posted here.
 
 ## Previous Semester videos
 
