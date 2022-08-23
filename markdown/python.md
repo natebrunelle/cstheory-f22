@@ -3,18 +3,18 @@ title: Installing Python
 ...
 
 
-If you already have python3 on your machine, you should be good to go
+If you already have some version of python3 on your machine, you should be good to go
 for the programming problems.
 
-If you don’t, please follow these directions to download Python and
-PyCharm (you’re welcome to use any IDE that you want, we
+If you don’t, please follow these directions to download Python 3.10.6 and
+PyCharm 2022.2.1 (you’re welcome to use any IDE that you want, we
 semi-arbitrarily picked PyCharm).
 
 # Windows
 
-1.  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+1.  Install Python 3:
     
-    1.  Download [the executable x86-64 installer from python.org](https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe).
+    1.  Download [the executable x86-64 installer from python.org](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe).
     
     2.  Run the installer.
     
@@ -22,7 +22,7 @@ semi-arbitrarily picked PyCharm).
     
     4.  If asked, check "Add Python to environment variables" and "Install for all users"; leave all other options at their default values.
 
-2.  Install PyCharm Community Edition 2020.2.1:
+2.  Install PyCharm Community Edition:
     
     1.  Download [the executable installer from jetbrains.com](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC).
     
@@ -32,9 +32,9 @@ semi-arbitrarily picked PyCharm).
     
 # Mac OS X
 
-1.  Install Python 3.6.4 (If you have a different version of Python, you still must install 3.6.4 seperately!):
+1.  Install Python3:
     
-    1.  Download [the installer from python.org](https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg).
+    1.  Download [the installer from python.org](https://www.python.org/ftp/python/3.10.6/python-3.10.6-macos11.pkg).
     
     2.  Run the installer.
     
@@ -44,7 +44,7 @@ semi-arbitrarily picked PyCharm).
 
 2.  Install PyCharm Community Edition 2020.2.1:
     
-    1.  Download [the dmg disk image from jetbrains.com](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC).
+    1.  Download the dmg disk image from jetbrains.com. [For Intel Processors](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC) [For Apple Silicon Processors](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=macM1&code=PCC).
     
     2.  Drag the icon to the Applications folder.
     
