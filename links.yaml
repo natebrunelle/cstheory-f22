@@ -7,10 +7,9 @@
     slides(pptx): files/slides/cs3102_L2_aug29.pptx
     content: /ps0.html
     
-2022-01-26:
-    slides(pdf): files/slides/cs3102_L3_jan26.pdf
-    slides(pptx): files/slides/cs3102_L3_jan26.pptx
-    slides(post-lecture): files/slides/cs3102_L3_jan26_post.pdf
+2022-08-31:
+    slides(pdf): files/slides/cs3102_L3_aug31.pdf
+    slides(pptx): files/slides/cs3102_L3_aug31.pptx
     
 2022-01-31:
     slides(pdf): files/slides/cs3102_L4_jan31.pdf
