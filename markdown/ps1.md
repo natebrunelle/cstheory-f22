@@ -36,7 +36,7 @@ These are the problems you should discuss and solve first independently, then wi
 
 # Optional Videos
 
-These are relevant videos from previous semesters. You may find them helpful, but you are not require or expected to watch them. Please be aware that the Spring 2021 semester was much shorter than the Spring 2022 semester, giving us the ability to move a bit slower this semester. As such, about half of the material covered during week 2 in Spring 2021 will not be covered until week 3 for Spring 2022.
+These are relevant videos from previous semesters. You may find them helpful, but you are not require or expected to watch them. Please be aware that the Spring 2021 semester was much shorter than the current semester, giving us the ability to move a bit slower this semester. As such, about half of the material covered during week 2 in Spring 2021 will not be covered until week 3 for Spring 2022.
 
 [Spring 2021 Week 2 Playlist](https://youtube.com/playlist?list=PLZ9Gk_8DtbmEuIYH86411XrlILy1HJwwy)
 
