@@ -5,7 +5,7 @@ title: Course Content Guides
 # Problem Sets
 
 - [Intro and Background (PS0)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps0.html)
-- Induction, Representation, Cardinality (PS1)
+- [Induction, Representation, Cardinality (PS1)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps1.html)
 - Countability and Uncountability (PS2)
 - Boolean Circuits (PS3)
 - Boolean Circuit Universality and Syntactic Sugar (PS4)
