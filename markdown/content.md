@@ -19,7 +19,7 @@ title: Course Content Guides
 
 # Quizzes
 
-- Quiz1
+- [Quiz1](/quiz1.html)
 - Quiz2
 - Quiz3
 - Quiz4
