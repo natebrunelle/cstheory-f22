@@ -16,7 +16,7 @@ This material is sourced from the material covered in lecture on 9/5, 9/7, 9/12,
 
 To help you prepare:
 
-- Here is a like to [quiz 1 from spring 2022](files/ps/quiz1_s22.pdf)
+- Here is a link to [quiz 1 from spring 2022](files/ps/quiz1_s22.pdf)
 - sample solutions for problem sets 1 and 2 will be posted here after their respective deadlines.
 
 
