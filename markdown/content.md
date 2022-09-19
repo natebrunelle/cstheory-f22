@@ -7,7 +7,7 @@ title: Course Content Guides
 - [Intro and Background (PS0)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps0.html)
 - [Induction, Representation, Cardinality (PS1)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps1.html)
 - [Countability and Uncountability (PS2)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps2.html)
-- Boolean Circuits (PS3)
+- [Boolean Circuits (PS3)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps3.html)
 - Boolean Circuit Universality and Syntactic Sugar (PS4)
 - Circuit Complexity, EVAL, and Asymptotics (PS5)
 - Deterministic Finite State Automata and Regular Expressions (PS6)
