@@ -55,7 +55,7 @@
   {"portion":"6"
   ,"drop":1
   ,"group":"problem_sets"
-  ,"due":"2022-10-07 23:59"
+  ,"due":"2022-10-11 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps4.html"
   ,"weight":0.8
   ,"files":"ps4.pdf"
@@ -64,7 +64,7 @@
   {"portion":"6"
   ,"drop":1
   ,"group":"problem_sets"
-  ,"due":"2022-10-07 23:59"
+  ,"due":"2022-10-11 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps4.html"
   ,"weight":0.2
   ,"files":"adders.py"
@@ -72,7 +72,7 @@
 ,"Quiz2 Universality":
   {"portion":"6"
   ,"group":"quizzes"
-  ,"due":"2022-10-11 23:59"
+  ,"due":"2022-10-14 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz2.html"
   ,"weight":1
   ,"files":"quiz2.pdf"
@@ -81,7 +81,7 @@
   {"portion":"6"
   ,"drop":1
   ,"group":"problem_sets"
-  ,"due":"2022-10-14 23:59"
+  ,"due":"2022-10-18 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps5.html"
   ,"weight":0.75
   ,"files":"ps5.pdf"
@@ -90,7 +90,7 @@
   {"portion":"6"
   ,"drop":1
   ,"group":"problem_sets"
-  ,"due":"2022-10-14 23:59"
+  ,"due":"2022-10-18 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps5.html"
   ,"weight":0.25
   ,"files":"eval.py"
