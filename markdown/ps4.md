@@ -1,8 +1,8 @@
 ---
-title: Week 5 Guide 
+title: PS4 Guide 
 ...
 
-# Week 5: Syntactic Sugar and Universality
+# Syntactic Sugar and Universality
 
 This week, our main goals are:
 
@@ -21,7 +21,7 @@ Material in this week's lectures parallels with:
 
 # Problem Set
 
-These are the problems you should discuss and solve first independently, then with your cohort (supposing you're in one). These problems focus on material discussed in the February 21 and February 23 lectures.
+These are the problems you should discuss and solve first independently, then with your cohort (supposing you're in one). These problems focus on material discussed in the September 26 and 28 lectures.
 
 [PS4 [PDF]](/files/ps/ps4_blank.pdf)
 
