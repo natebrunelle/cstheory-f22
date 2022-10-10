@@ -4,7 +4,7 @@ title: Quiz 2 | Universality and Gate Counting
 
 # Topics Covered
 
-This quiz is due at 11:59pm on Tuesday 10/11. It will be posted no later than 11:59pm on Friday 10/7.
+This quiz is due at 11:59pm on Friday 10/14.
 
 This quiz will contain 2 questions:
 
