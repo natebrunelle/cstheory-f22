@@ -48,10 +48,9 @@
     slides(pdf): files/slides/cs3102_L12_oct5.pdf
     slides(pptx): files/slides/cs3102_L12_oct5.pptx
     
-2022-03-14:
-    slides(pdf): files/slides/cs3102_L14_march14.pdf
-    slides(pptx): files/slides/cs3102_L14_march14.pptx
-    slides(post-lecture): files/slides/cs3102_L14_march14_post.pdf
+2022-10-10:
+    slides(pdf): files/slides/cs3102_L13_oct10.pdf
+    slides(pptx): files/slides/cs3102_L13_oct10.pptx
     
 2022-03-16:
     slides(pdf): files/slides/cs3102_L15_march16.pdf
