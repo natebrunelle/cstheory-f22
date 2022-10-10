@@ -67,15 +67,7 @@ reading:
       - "TCS Chapter 0"
       - lnk: https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e
         txt: six habits
-    
-      
-    Evaluation:
-        - lnk: /week6.html
-          txt: week6 guide
-
-    Complexity:
-        - lnk: /week6.html
-          txt: week6 guide
+  
     
 assignments:
     ".groups":
