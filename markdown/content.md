@@ -10,7 +10,7 @@ title: Course Content Guides
 - [Boolean Circuits (PS3)](https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps3.html)
 - [Boolean Circuit Universality and Syntactic Sugar (PS4)](/ps4.html)
 - [Circuit Complexity, EVAL, and Asymptotics (PS5)](/ps5.html)
-- Deterministic Finite State Automata and Regular Expressions (PS6)
+- [Deterministic Finite State Automata and Regular Expressions (PS6)](/ps6.html)
 - Non-Deterministic Automata, Closure, REGEX=NFA (PS7)
 - Limits of NFAs/REGEX, Turing Machines (PS8)
 - Universal Turing Machines, Uncomputability, Self-Reject (PS9)
