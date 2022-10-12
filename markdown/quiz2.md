@@ -16,7 +16,7 @@ This material is sourced from the material covered in lecture on 9/19, 9/21, 9/2
 To help you prepare:
 
 - Here is a link to [quiz 2 from spring 2022](files/ps/quiz2_s22.pdf)
-- Sample solutions for PS3 and PS4 will be posted shortly
+- Here are sample solutions for [PS3](files/ps/ps3_sols.pdf) and [PS4](files/ps/ps4_sols.pdf) will be posted shortly
 
 # Collaboration Policy
 
