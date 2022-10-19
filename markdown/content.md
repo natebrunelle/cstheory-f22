@@ -11,7 +11,7 @@ title: Course Content Guides
 - [Boolean Circuit Universality and Syntactic Sugar (PS4)](/ps4.html)
 - [Circuit Complexity, EVAL, and Asymptotics (PS5)](/ps5.html)
 - [Deterministic Finite State Automata and Regular Expressions (PS6)](/ps6.html)
-- Non-Deterministic Automata, Closure, REGEX=NFA (PS7)
+- [Non-Deterministic Automata, Closure, REGEX=NFA (PS7)](/ps7.html)
 - Limits of NFAs/REGEX, Turing Machines (PS8)
 - Universal Turing Machines, Uncomputability, Self-Reject (PS9)
 - Reductions, Rice's Theorem (PS10)
