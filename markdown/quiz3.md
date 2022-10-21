@@ -19,7 +19,7 @@ To help you prepare, sample solutions for problem sets 5 and 6 will be posted he
 To help you prepare:
 
 - Here is a link to [quiz 3 from spring 2022](files/ps/quiz3_s22.pdf), plus [sample solutions](files/ps/quiz3_sols.pdf).
-- Aample solutions for PS5 and PS6 will be posted shortly
+- Sample solutions for PS5 and PS6 will be posted shortly
 
 
 # Collaboration Policy
