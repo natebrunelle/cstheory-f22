@@ -14,12 +14,11 @@ This quiz contains 3 questions:
 
 This material is sourced from the material covered in lecture on 10/5, 10/10, 10/12, and 10/17. Similar problems to these were seen in problem sets 5 and 6. No material introduced after 10/17 or first covered by problem set 7 will be represented in this quiz. Because some topics build upon others, earlier topics may be relevant for the questions included, even though the quiz is not specifically designed to be cumulative. 
 
-To help you prepare, sample solutions for problem sets 5 and 6 will be posted here after their respective deadlines.
 
 To help you prepare:
 
 - Here is a link to [quiz 3 from spring 2022](files/ps/quiz3_s22.pdf), plus [sample solutions](files/ps/quiz3_sols.pdf).
-- Sample solutions for PS5 and PS6 will be posted shortly
+- Here are sample solutions for [PS5](files/ps/ps5_sols.pdf) and [PS6](files/ps/ps6_sols.pdf) will be posted shortly
 
 
 # Collaboration Policy
