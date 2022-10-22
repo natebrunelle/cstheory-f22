@@ -21,7 +21,7 @@ title: Course Content Guides
 
 - [Quiz1](/quiz1.html)
 - [Quiz2](/quiz2.html)
-- Quiz3
+- [Quiz3](/quiz3.html)
 - Quiz4
 - Quiz5
 - Quiz6
