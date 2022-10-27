@@ -12,7 +12,7 @@ title: Course Content Guides
 - [Circuit Complexity, EVAL, and Asymptotics (PS5)](/ps5.html)
 - [Deterministic Finite State Automata and Regular Expressions (PS6)](/ps6.html)
 - [Non-Deterministic Automata, Closure, REGEX=NFA (PS7)](/ps7.html)
-- Limits of NFAs/REGEX, Turing Machines (PS8)
+- [Limits of NFAs/REGEX, Turing Machines (PS8)](/ps8.html)
 - Universal Turing Machines, Uncomputability, Self-Reject (PS9)
 - Reductions, Rice's Theorem (PS10)
 - Complexity Classes, P, NP, NP-Hard, NP-Complete (PS11)
