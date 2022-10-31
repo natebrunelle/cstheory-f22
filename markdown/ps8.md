@@ -40,11 +40,11 @@ Entscheidungsproblem_](/files/computablenumbers.pdf). 1936.
 
 # Problem Set
 
-These are the problems you should discuss and solve first independently, then with your cohort (supposing you're in one). These problems focus on material discussed in the March 28 and March 30 lectures.
+These are the problems you should discuss and solve first independently, then with your cohort (supposing you're in one). These problems focus on material discussed in the October 24 and October 28 lectures.
 
 [PS8 [PDF]](/files/ps/ps8_blank.pdf)
 
-[PS8 [ZIP]](/files/ps/ps8.pdf)
+[PS8 [ZIP]](/files/ps/ps8.zip)
 
 Note that this problem set does not have a programming portion.
 
