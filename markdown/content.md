@@ -13,7 +13,7 @@ title: Course Content Guides
 - [Deterministic Finite State Automata and Regular Expressions (PS6)](/ps6.html)
 - [Non-Deterministic Automata, Closure, REGEX=NFA (PS7)](/ps7.html)
 - [Limits of NFAs/REGEX, Turing Machines (PS8)](/ps8.html)
-- Universal Turing Machines, Uncomputability, Self-Reject (PS9)
+- [Universal Turing Machines, Uncomputability, Self-Reject (PS9)](/ps9.html)
 - Reductions, Rice's Theorem (PS10)
 - Complexity Classes, P, NP, NP-Hard, NP-Complete (PS11)
 
