@@ -22,7 +22,7 @@ title: Course Content Guides
 - [Quiz1](/quiz1.html)
 - [Quiz2](/quiz2.html)
 - [Quiz3](/quiz3.html)
-- Quiz4
+- [Quiz4](/quiz4.html)
 - Quiz5
 - Quiz6
 - Final Quizzes
