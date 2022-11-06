@@ -18,7 +18,7 @@ This material is sourced from the material covered in lecture on 10/19, 10/24, a
 
 To help you prepare:
 
-- Here is a link to [quiz 4 from spring 2022](files/ps/quiz4_s22.pdf), sample solutions are forthcoming.
+- Here is a link to [quiz 4 from spring 2022](files/ps/quiz4_s22.pdf), as well as [sample solutions](files/ps/quiz4_sols.pdf).
 - Here are sample solutions for [PS7](files/ps/ps7_sols.pdf), and [PS8](files/ps/ps8_sols.pdf).
 
 
