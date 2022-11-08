@@ -14,7 +14,7 @@ title: Course Content Guides
 - [Non-Deterministic Automata, Closure, REGEX=NFA (PS7)](/ps7.html)
 - [Limits of NFAs/REGEX, Turing Machines (PS8)](/ps8.html)
 - [Universal Turing Machines, Uncomputability, Self-Reject (PS9)](/ps9.html)
-- Reductions, Rice's Theorem (PS10)
+- [Reductions, Rice's Theorem (PS10)](/ps10.html)
 - Complexity Classes, P, NP, NP-Hard, NP-Complete (PS11)
 
 # Quizzes
