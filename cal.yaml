@@ -175,7 +175,7 @@ assignments:
         weight: 1
         files: 'ps9.pdf'
         
-    PS10 Rices Theorem and Asymptotics and P vs NP:
+    PS10 Rices Theorem and P vs NP:
         group: problem_sets
         due: 2022-12-06 23:59:59
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html'
