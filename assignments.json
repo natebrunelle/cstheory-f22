@@ -156,31 +156,14 @@
   ,"weight":1
   ,"files":"ps9.pdf"
   }
-,"PS10 Rices Theorem and Asymptotics":
-  {"portion":"6"
-  ,"drop":1
-  ,"group":"problem_sets"
-  ,"due":"2022-11-18 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html"
-  ,"weight":1
-  ,"files":"ps10.pdf"
-  }
-,"Quiz5 Reductions":
-  {"portion":"6"
-  ,"group":"quizzes"
-  ,"due":"2022-11-29 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz5.html"
-  ,"weight":1
-  ,"files":"quiz5.pdf"
-  }
-,"PS11 NP Complete":
+,"PS10 Rices Theorem and Asymptotics and P vs NP":
   {"portion":"6"
   ,"drop":1
   ,"group":"problem_sets"
   ,"due":"2022-12-06 23:59"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps11.html"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html"
   ,"weight":1
-  ,"files":"ps11_revised.pdf"
+  ,"files":"ps10.pdf"
   }
 ,"Quiz6 P vs NP":
   {"portion":"6"
@@ -221,14 +204,6 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0
   ,"files":"quiz4_retake.pdf"
-  }
-,"Quiz5 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
-  ,"due":"2022-12-16 17:00"
-  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
-  ,"files":"quiz5_retake.pdf"
   }
 ,"Quiz6 Final":
   {"portion":"6"
