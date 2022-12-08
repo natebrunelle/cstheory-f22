@@ -15,7 +15,7 @@ title: Course Content Guides
 - [Limits of NFAs/REGEX, Turing Machines (PS8)](/ps8.html)
 - [Universal Turing Machines, Uncomputability, Self-Reject (PS9)](/ps9.html)
 - [Reductions, Rice's Theorem (PS10)](/ps10.html)
-- Complexity Classes, P, NP, NP-Hard, NP-Complete (PS11)
+- ~~Complexity Classes, P, NP, NP-Hard, NP-Complete (PS11)~~
 
 # Quizzes
 
@@ -23,6 +23,6 @@ title: Course Content Guides
 - [Quiz2](/quiz2.html)
 - [Quiz3](/quiz3.html)
 - [Quiz4](/quiz4.html)
-- Quiz5
-- Quiz6
-- Final Quizzes
+- ~~Quiz5~~
+- [Quiz6](/quiz6.html)
+- [Final Quizzes](/finalquizzes.html)
