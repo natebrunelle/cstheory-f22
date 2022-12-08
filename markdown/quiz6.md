@@ -2,7 +2,7 @@
 title: Quiz 6 | P vs NP and Uncomputability
 ...
 
-Currently, the deadline for this quiz (and all quiz re-takes) is set to 5:00pm on Friday December 9. This does not mean that you must submit this quiz in advance of that deadline. Instead, you may request any new deadline you would like between the default deadline and 5pm on December 16 (this is the end time of the university's official final exam time for the course, so by policy I cannot allow you to submit any later than that).
+Currently, the deadline for this quiz (and all quiz re-takes) is set to 5:00pm on Friday December 9. This does not mean that you must submit this quiz in advance of that deadline. Instead, you may request any new deadline you would like between the default deadline and 5pm on December 16 (this is the end time of the university's official final exam time for the course, so by policy I cannot allow you to submit any later than that). Deadline extension requests are made in the Kytos submission system.
 
 Be advised that once your deadline has passed and you have submitted something, you will not be able to select a new deadline for that quiz. You will be able to request a new quiz deadline for any quiz you have not yet submitted (regardless of whether the deadline has already passed). Prof. Brunelle will be processing extensions each morning beginning November 30, so if you submit in the afternoon then you may not see the deadline change that day. You can assume any extension requested for a deadline before 5pm on December 16 will be granted.
 
