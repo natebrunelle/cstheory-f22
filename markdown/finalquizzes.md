@@ -55,7 +55,18 @@ The [Final Quiz 3 pdf](/files/ps/quiz3final_blank.pdf) and [Final Quiz 3 Latex t
 The [Final Quiz 4 pdf](/files/ps/quiz4final_blank.pdf) and [Final Quiz 4 Latex template](/files/ps/quiz4final.zip)
 
 
-## Quiz 6 Re-Take
+# Submission Instructions
 
-The [Final Quiz 4 pdf](/files/ps/quiz4final_blank.pdf) and [Final Quiz 4 Latex template](/files/ps/quiz4final.zip)
+
+These quizzes have the same submission procedure you saw for the problem sets:
+
+1. Download the template linked-to above for the quiz you wish to submit (for subsequent steps we'll say this is quiz number x)
+1. In Overleaf, click on *Create First Project* or *New Project in Overleaf* and select *Upload Project* from the menu.
+1. Click *Select a .zip file* then select the zip you downloaded in step 1
+1. Look in `quizx.tex` file for the line, `submitter{TODO: your name}` and replace the `TODO: your name` with your name and UVA id ( e.g. `submitter{Nathan Brunelle (njb2b)}`)
+1. Answer each question in the corresponding `.tex` file after the `\answer` line. 
+1. When you're ready to submit, replace the line, `\usepackage{toc}` (the second line in the file) with `\usepackage[response]{toc}`. You can do this by using the LaTeX comment token, %. The rest of the line after a % is treated as a comment. 
+1. Rebuild the PDF by clicking *Recompile*. You should see many things disappear and other things reappear
+1. Download the pdf to your machine, name it `quizx_retake.pdf`.
+1. Upload your pdf to [kytos](https://kytos.cs.virginia.edu/cstheory) to submit.
 
