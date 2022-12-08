@@ -42,23 +42,20 @@ You may ask clafication questions for the quiz in office hours or discord.
 The [Final Quiz 1 pdf](/files/ps/quiz1final_blank.pdf) and [Final Quiz 1 Latex template](/files/ps/quiz1final.zip)
 
 
-## Quiz 2 Re-Take
+## Quiz 2 Final
 
-Posted no later than Wednesday December 7.
+The [Final Quiz 2 pdf](/files/ps/quiz2final_blank.pdf) and [Final Quiz 2 Latex template](/files/ps/quiz2final.zip)
 
 ## Quiz 3 Re-Take
 
-Posted no later than Wednesday December 7.
+The [Final Quiz 3 pdf](/files/ps/quiz3final_blank.pdf) and [Final Quiz 3 Latex template](/files/ps/quiz3final.zip)
 
 ## Quiz 4 Re-Take
 
-Posted no later than Wednesday December 7.
+The [Final Quiz 4 pdf](/files/ps/quiz4final_blank.pdf) and [Final Quiz 4 Latex template](/files/ps/quiz4final.zip)
 
-## Quiz 5 Re-Take
-
-Posted no later than Wednesday December 7.
 
 ## Quiz 6 Re-Take
 
-Posted no later than Wednesday December 7.
+The [Final Quiz 4 pdf](/files/ps/quiz4final_blank.pdf) and [Final Quiz 4 Latex template](/files/ps/quiz4final.zip)
 
