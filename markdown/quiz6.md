@@ -17,7 +17,11 @@ This quiz contains 3 questions:
 
 Similar problems to these were seen in problem sets 9 and 10.
 
-To help you prepare, sample solutions for problem sets 9 and 10 will be posted here shortly. This quiz also contains a mix of content that was included in the Spring 2022 Quiz 5 and Quiz 6, so solutions to both of those quizzes will also be posted here.
+To help you prepare:
+
+- Because we cancelled Quiz 5 this semester, the content covered on this Quiz 6 will include a mix of content from quizzes 5 and 6 from Spring 2022. Here are [Spring 2022 quiz 5](files/ps/quiz5_s22.pdf) and [Spring 2022 quiz 6](files/ps/quiz6_s22.pdf), as well as sample solutions for each: [quiz 5 sample solutions](files/ps/quiz5_sols.pdf) and [quiz 6 sample solutions](files/ps/quiz6_sols.pdf).
+- Here are sample solutions for [PS9](files/ps/ps9_sols.pdf), and [PS10](files/ps/ps10_sols.pdf).
+
 
 
 # Collaboration Policy
