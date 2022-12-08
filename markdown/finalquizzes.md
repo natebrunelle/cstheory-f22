@@ -8,14 +8,14 @@ All students are welcome (but not required) to re-take up to two quizzes during 
 
 You're welcome to look at and attempt a quiz before deciding whether to submit the re-take. Once you have submitted a re-take you are committed to replacing the original quiz.
 
-Currently, the deadline for all quizzes (including the original quiz 6) is set to 5:00pm on Friday December 9. This does not mean that you must submit any quiz in advance of that deadline. Instead, you may request any new deadline you would like between the default deadline and 5pm on December 16 (this is the end time of the university’s official final exam time for the course, so by policy I cannot allow you to submit any later than that).
+Currently, the deadline for all quizzes (including the original quiz 6) is set to 5:00pm on Friday December 9. This does not mean that you must submit any quiz in advance of that deadline. Instead, you may request any new deadline you would like between the default deadline and 5pm on December 16 (this is the end time of the university’s official final exam time for the course, so by policy I cannot allow you to submit any later than that). Deadline extension requests should be made in the Kytos submission system.
 
 Be advised that once your deadline has passed and you have submitted something, you will not be able to select a new deadline for that quiz. You will be able to request a new quiz deadline for any quiz you have not yet submitted (regardless of whether the deadline has already passed). Prof. Brunelle will be processing extensions each morning beginning November 30, so if you submit in the afternoon then you may not see the deadline change that day. You can assume any extension requested for a deadline before 5pm on December 16 will be granted.
 
 This may seem like a strange way to do things, but there are numerous benefits to you and the course staff that this enables. Please note that the earlier you submit your quizzes the more potent these potential benefits will be.
 
 1. Once your self-selected deadline has passed and you have submitted a quiz we will have the opportunity to grade it right away, no need to wait for everyone in the class to submit. This means you will get your grades back sooner.
-1. Getting grades back sooner allows you to wait until after your Quiz 6 is graded to decide which quizzes to retake, or whether to retake any quizzes.
+1. Getting grades back sooner allows you to wait until after your Quiz 6 is graded to decide which quizzes to retake, or whether to retake any quizzes at all.
 1. Getting grades back sooner also allows you to base your decision of whether to retake additional quizzes off of the result of a potential first final attempt.
 1. There was no other way I could think of that would give you a reasonable opportunity to retake Quiz 6.
 1. The grading burden on the course staff will be spread out throughout the final exam period, rather than happening all at once at the very end.
@@ -37,9 +37,10 @@ You may ask clafication questions for the quiz in office hours or discord.
 
 # The Quizzes
 
-## Quiz 1 Re-Take
+## Quiz 1 Final
 
-Posted no later than Wednesday December 7.
+The [Final Quiz 1 pdf](/files/ps/quiz1final_blank.pdf) and [Final Quiz 1 Latex template](/files/ps/quiz1final.zip)
+
 
 ## Quiz 2 Re-Take
 
