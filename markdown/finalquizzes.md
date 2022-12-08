@@ -54,6 +54,10 @@ The [Final Quiz 3 pdf](/files/ps/quiz3final_blank.pdf) and [Final Quiz 3 Latex t
 
 The [Final Quiz 4 pdf](/files/ps/quiz4final_blank.pdf) and [Final Quiz 4 Latex template](/files/ps/quiz4final.zip)
 
+## Quiz 6 Re-Take
+
+The [Final Quiz 6 pdf](/files/ps/quiz6final_blank.pdf) and [Final Quiz 6 Latex template](/files/ps/quiz6final.zip)
+
 
 # Submission Instructions
 
