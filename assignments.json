@@ -156,6 +156,14 @@
   ,"weight":1
   ,"files":"ps9.pdf"
   }
+,"Quiz5":
+  {"portion":"6"
+  ,"group":"quizzes"
+  ,"due":"2022-12-01 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/"
+  ,"weight":1
+  ,"files":"quiz5.pdf"
+  }
 ,"PS10 Rices Theorem and P vs NP":
   {"portion":"6"
   ,"drop":1
@@ -164,6 +172,15 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html"
   ,"weight":1
   ,"files":"ps10.pdf"
+  }
+,"PS11":
+  {"portion":"6"
+  ,"drop":1
+  ,"group":"problem_sets"
+  ,"due":"2022-12-07 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022"
+  ,"weight":1
+  ,"files":"ps11.pdf"
   }
 ,"Quiz6 P vs NP":
   {"portion":"6"
