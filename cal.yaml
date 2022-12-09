@@ -181,6 +181,13 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/ps10.html'
         weight: 1
         files: 'ps10.pdf'
+        
+    PS11:
+        group: problem_sets
+        due: 2022-12-07 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022'
+        weight: 1
+        files: 'ps11.pdf'
    
         
     Quiz1 Induction and Diagonalization:
@@ -210,6 +217,13 @@ assignments:
         writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz4.html'
         weight: 1
         files: 'quiz4.pdf'
+        
+    Quiz5:
+        group: quizzes
+        due: 2022-12-01 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cstheory/f2022/'
+        weight: 1
+        files: 'quiz5.pdf'
         
     Quiz6 P vs NP:
         group: quizzes
