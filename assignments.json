@@ -201,7 +201,7 @@
   ,"group":"quiz1"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
+  ,"weight":1
   ,"files":"quiz1_retake.pdf"
   }
 ,"Quiz2 Final":
@@ -210,7 +210,7 @@
   ,"group":"quiz2"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
+  ,"weight":1
   ,"files":"quiz2_retake.pdf"
   }
 ,"Quiz3 Final":
@@ -219,7 +219,7 @@
   ,"group":"quiz3"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
+  ,"weight":1
   ,"files":"quiz3_retake.pdf"
   }
 ,"Quiz4 Final":
@@ -228,7 +228,7 @@
   ,"group":"quiz4"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
+  ,"weight":1
   ,"files":"quiz4_retake.pdf"
   }
 ,"Quiz6 Final":
@@ -237,7 +237,7 @@
   ,"group":"quiz6"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
-  ,"weight":0
+  ,"weight":1
   ,"files":"quiz6_retake.pdf"
   }
 }
