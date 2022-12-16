@@ -26,8 +26,9 @@
   ,"files":"ps2.pdf"
   }
 ,"Quiz1 Induction and Diagonalization":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz1"
   ,"due":"2022-09-27 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz1.html"
   ,"weight":1
@@ -70,8 +71,9 @@
   ,"files":"adders.py"
   }
 ,"Quiz2 Universality":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz2"
   ,"due":"2022-10-14 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz2.html"
   ,"weight":1
@@ -105,8 +107,9 @@
   ,"files":"ps6.pdf"
   }
 ,"Quiz3 Circuit Complexity":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz3"
   ,"due":"2022-10-25 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz3.html"
   ,"weight":1
@@ -140,8 +143,9 @@
   ,"files":"ps8.pdf"
   }
 ,"Quiz4 Automata and Turing Machines":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz4"
   ,"due":"2022-11-09 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz4.html"
   ,"weight":1
@@ -157,8 +161,8 @@
   ,"files":"ps9.pdf"
   }
 ,"Quiz5":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"group":"quiz5"
   ,"due":"2022-12-01 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/"
   ,"weight":1
@@ -183,48 +187,54 @@
   ,"files":"ps11.pdf"
   }
 ,"Quiz6 P vs NP":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz6"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/quiz6.html"
   ,"weight":1
   ,"files":"quiz6.pdf"
   }
 ,"Quiz1 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz1"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0
   ,"files":"quiz1_retake.pdf"
   }
 ,"Quiz2 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz2"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0
   ,"files":"quiz2_retake.pdf"
   }
 ,"Quiz3 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz3"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0
   ,"files":"quiz3_retake.pdf"
   }
 ,"Quiz4 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz4"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0
   ,"files":"quiz4_retake.pdf"
   }
 ,"Quiz6 Final":
-  {"portion":"6"
-  ,"group":"quizzes"
+  {"portion":"1"
+  ,"drop":1
+  ,"group":"quiz6"
   ,"due":"2022-12-09 17:00"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cstheory/f2022/finalquizzes.html"
   ,"weight":0

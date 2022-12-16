@@ -14,9 +14,21 @@
   ]
 ,"weights":
   {"problem_sets":6
-  ,"quizzes":6
+  ,"quiz1":1
+  ,"quiz2":1
+  ,"quiz3":1
+  ,"quiz4":1
+  ,"quiz5":1
+  ,"quiz6":1
   }
-,"drops":{"problem_sets":1}
+,"drops":
+  {"problem_sets":1
+  ,"quiz1":1
+  ,"quiz2":1
+  ,"quiz3":1
+  ,"quiz4":1
+  ,"quiz6":1
+  }
 ,"includes":{}
 ,"excludes":{}
 ,"excuse":{}
